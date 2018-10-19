@@ -23,6 +23,12 @@ Book by the "grandfather" of JavaScript, Douglas Crockford. He discusses both th
 
 - [Amazon](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
+#### Web Design with HTML, CSS, JavaScript and jQuery Set
+
+Two book set combining HTML& CSS and JavaScript and jQuery
+
+- [Amazon](https://smile.amazon.com/dp/1118907442/ref=cm_sw_r_cp_ep_dp_vqFYBbCX8N23C)
+
 #### JavaScript: Info
 
 A collection of articles covering the basics (core language and working with a browser) as well as advanced topics with concise explanations. Available as an e-book with pay and also as an online tutorial.
